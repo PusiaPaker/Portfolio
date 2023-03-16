@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b0bf67b.css",
+    "main.js": "/static/js/main.5fdfc607.js",
+    "static/media/postbuspro-webfont.svg": "/static/media/postbuspro-webfont.49b1948d5dc3c0ef36ae.svg",
+    "static/media/postbuspro-webfont.eot": "/static/media/postbuspro-webfont.fa58662ad86f10a7e5c3.eot",
+    "static/media/postbuspro-webfont.ttf": "/static/media/postbuspro-webfont.f50379c88c1796438353.ttf",
+    "static/media/postbuspro-webfont.woff": "/static/media/postbuspro-webfont.5d8a157cf5624d171ecd.woff",
+    "index.html": "/index.html",
+    "main.7b0bf67b.css.map": "/static/css/main.7b0bf67b.css.map",
+    "main.5fdfc607.js.map": "/static/js/main.5fdfc607.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b0bf67b.css",
+    "static/js/main.5fdfc607.js"
+  ]
+}
